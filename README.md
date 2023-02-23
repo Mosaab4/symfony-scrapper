@@ -23,9 +23,9 @@ To Start Scraping the website, you can use the following command
 The CLI will prompt multiple choices so the user can choose which category he want to scrap 
 
 
-## View Logs
+## View Posts
 
-User can view logs using the following link:
+User can view posts using the following link:
 
 ```http://localhost:8090/posts```
 
